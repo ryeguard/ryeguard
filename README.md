@@ -1,6 +1,6 @@
 ### Hi 👋
 
-[rygard.se](https://ryeguard.github.io/) | [linkedin](https://www.linkedin.com/in/srygard/)
+[rygard.se](https://rygard.se/) | [linkedin](https://www.linkedin.com/in/srygard/)
 
 <!--
 **ryeguard/ryeguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
